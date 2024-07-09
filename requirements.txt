@@ -1,2 +1,4 @@
-Flask
-gunicorn
+Flask==2.0.1
+Flask-Cors==3.0.10
+reportlab==3.6.3
+scrapy==2.5.1
